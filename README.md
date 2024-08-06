@@ -6,7 +6,7 @@ Overview
 The Flight Reservation App is a Blazor-based web application that allows users to search for flights and manage reservations. It provides functionalities for both flight searching and reservation management, making it easy for users to find and reserve flights based on their preferences.
 Features
 
- ![Home page]([https://res.cloudinary.com/demo/image/upload/sample.jpg](https://res.cloudinary.com/duk3olmgh/image/upload/v1722977417/flight_reservation_app1_pduagr.png))
+ ![Home page](https://res.cloudinary.com/duk3olmgh/image/upload/v1722977417/flight_reservation_app1_pduagr.png)
 
 
 
